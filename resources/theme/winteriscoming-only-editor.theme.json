@@ -1,0 +1,14 @@
+{
+  "name": "Winter is Coming (Only Editor)",
+  "author": "Neeraj Vernekar",
+  "dark": true,
+  "editorScheme": "/WinterIsComing.xml",
+  "colors": {
+    "window": "#282822",
+    "editor.background": "#282822",
+    "editor.foreground": "#bce7ff"
+  },
+  "ui": {
+
+  }
+}
